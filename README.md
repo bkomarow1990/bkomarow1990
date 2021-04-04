@@ -5,3 +5,5 @@ Here are some ideas to get you started:
 - 🌱 I currently learning C#,Linux administration
 - I learned C++, C#, JS , HTML, CSS, PYTHON, bash(without object-oriented programming.)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bkomarow1990&show_icons=true)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=bkomarow1990.bkomarow1990)
