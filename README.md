@@ -1,8 +1,7 @@
 ### Hi there 👋
-Here are some ideas to get you started:
+
 
 - 🔭 I currently working on myself
-- 🌱 I currently learning C#, Linux administration
 - I learned C++, C#(.NET), JS , HTML, CSS, Python, Bash.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bkomarow1990&show_icons=true)
