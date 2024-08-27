@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I currently working on myself
-- I learned C++, C#(.NET), JS , HTML, CSS, Python, Bash.
+- 🔭 I currently working on myself. Mostly C#, JS/TS.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bkomarow1990&show_icons=true)
 
